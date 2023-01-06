@@ -49,5 +49,3 @@ Email: sachinkapase6125@gmail.com
 
 ```
 
-
-### Note: The model is slightly overfit, I am trying for thr best generalized model, Once I will receive good accuracy for train and validation dataset, I will update new model in the project.
